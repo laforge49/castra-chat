@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: hoplon:6.0.0-alpha11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hoplon/hoplon/6.0.0-alpha11/hoplon-6.0.0-alpha11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
